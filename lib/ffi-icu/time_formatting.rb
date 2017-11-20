@@ -1,3 +1,5 @@
+require 'date'
+require 'time'
 
 module ICU
   module TimeFormatting

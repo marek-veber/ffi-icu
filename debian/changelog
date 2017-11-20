@@ -1,3 +1,9 @@
+ruby-ffi-icu (0.1.7.solnet9) jessie; urgency=medium
+
+  * fix for ruby 2.3
+
+ -- Marek Veber <Marek.Veber@solnet.cz>  Mon, 20 Nov 2017 15:58:02 +0100
+
 ruby-ffi-icu (0.1.7.solnet8) wheezy; urgency=medium
 
   * merge with upstream 0.1.7
