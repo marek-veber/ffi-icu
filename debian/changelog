@@ -1,3 +1,9 @@
+ruby-ffi-icu (0.1.7.solnet9) wheezy; urgency=medium
+
+  * prehozeni ld adresaru v /usr/lib/ruby/vendor_ruby/ffi-icu/lib.rb
+
+ -- juras <juras@solnet.cz>  Wed, 10 Jan 2018 13:54:51 +0100
+
 ruby-ffi-icu (0.1.7.solnet8) wheezy; urgency=medium
 
   * merge with upstream 0.1.7
