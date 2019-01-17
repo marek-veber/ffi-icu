@@ -24,6 +24,8 @@ debian/ruby-ffi-icu/
 debian/files
 debian/patches/
 debian/ruby-ffi-icu.debhelper.log
+debian/debhelper-build-stamp
+debian/.debhelper/
 
 
 ## PROJECT::SPECIFIC

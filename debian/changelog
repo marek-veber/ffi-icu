@@ -1,3 +1,9 @@
+ruby-ffi-icu (10:0.1.7.solnet9) buster; urgency=medium
+
+  * build for buster
+
+ -- Marek Veber <Marek.Veber@solnet.cz>  Thu, 17 Jan 2019 03:09:28 +0100
+
 ruby-ffi-icu (0.1.7.solnet9) wheezy; urgency=medium
 
   * prehozeni ld adresaru v /usr/lib/ruby/vendor_ruby/ffi-icu/lib.rb

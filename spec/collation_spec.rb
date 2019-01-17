@@ -58,7 +58,7 @@ module ICU
       it "should return rules" do
         collator.rules.should_not be_empty
         # ö sorts before Ö
-        collator.rules.include?('ö<<<Ö').should be_true
+        collator.rules.include?('ö<<<Ö').should be true
       end
 
     end
